@@ -1,4 +1,4 @@
-## Background
+## Background:
 
 Wearable health technology has the potential to significantly enhance patient care through precise activity tracking. This research aims to optimize the Human Activity Recognition Transformer (HART) model to improve both the accuracy and efficiency of recognizing daily activities. By utilizing datasets such as the [Inertia Sensors for Human Activity Recognition](https://www.kaggle.com/datasets/owenagius/inertia-sensors-for-human-activity-recognition/data) and the [Human Activity Recognition (HAR) Dataset](https://www.kaggle.com/datasets/arashnic/har-1), the HART model will be fine-tuned and integrated into a WearOS application.
 
@@ -18,6 +18,6 @@ The initial testing phase will focus on deploying the application on wearable de
 - Walking Downstairs
 - Walking Upstairs
 
-### Dataset Links
+### Dataset Links:
 - [Inertia Sensors for Human Activity Recognition](https://www.kaggle.com/datasets/owenagius/inertia-sensors-for-human-activity-recognition/data)
 - [Human Activity Recognition (HAR) Dataset](https://www.kaggle.com/datasets/arashnic/har-1)
